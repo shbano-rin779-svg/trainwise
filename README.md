@@ -1,1 +1,2 @@
-# trainwise
+# TrainWise
+筋トレ記録と成長分析のためのWebアプリ
